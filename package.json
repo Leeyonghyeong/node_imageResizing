@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "engines": {
+    "node": "14.17.3"
+  },
+  "scripts": {
+    "dev": "nodemon src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "image-size": "^1.0.0",
+    "node-fetch": "^3.0.0",
+    "sharp": "^0.29.1",
+    "unsplash-js": "^7.0.15"
+  }
+}
